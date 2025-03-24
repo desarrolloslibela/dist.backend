@@ -8,11 +8,11 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ecogas</groupId>
+	<groupId>com.proj</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ecogas.backend</name>
-	<description>Backend project for Ecogas</description>
+	<name>proj.backend</name>
+	<description>Backend project</description>
 	<url/>
 	<licenses>
 		<license/>
