@@ -27,4 +27,8 @@ public class AuthResponseDTO {
     public void setEmail(String email) { this.email = email; }
     public void setNombre(String nombre) { this.nombre = nombre; }
     public void setApellido(String apellido) { this.apellido = apellido; }
+
+
+
 }
+
