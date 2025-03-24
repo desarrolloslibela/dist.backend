@@ -1,4 +1,4 @@
-package com.ecogas.backend.dto;
+package com.proj.backend.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

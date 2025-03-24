@@ -1,12 +1,12 @@
-package com.ecogas.backend.service;
+package com.proj.backend.service;
 
-import com.ecogas.backend.dto.AuthResponseDTO;
-import com.ecogas.backend.model.Role;
-import com.ecogas.backend.model.RoleType;
-import com.ecogas.backend.model.User;
-import com.ecogas.backend.repository.RoleRepository;
-import com.ecogas.backend.repository.UserRepository;
-import com.ecogas.backend.security.JwtUtil;
+import com.proj.backend.dto.AuthResponseDTO;
+import com.proj.backend.model.Role;
+import com.proj.backend.model.RoleType;
+import com.proj.backend.model.User;
+import com.proj.backend.repository.RoleRepository;
+import com.proj.backend.repository.UserRepository;
+import com.proj.backend.security.JwtUtil;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

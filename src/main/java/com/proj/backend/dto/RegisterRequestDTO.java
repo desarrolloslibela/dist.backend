@@ -1,6 +1,6 @@
-package com.ecogas.backend.dto;
+package com.proj.backend.dto;
 
-import com.ecogas.backend.model.RoleType;
+import com.proj.backend.model.RoleType;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

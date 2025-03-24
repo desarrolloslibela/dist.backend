@@ -1,8 +1,8 @@
-package com.ecogas.backend;
+package com.proj.backend;
 
-import com.ecogas.backend.model.Role;
-import com.ecogas.backend.model.RoleType;
-import com.ecogas.backend.repository.RoleRepository;
+import com.proj.backend.model.Role;
+import com.proj.backend.model.RoleType;
+import com.proj.backend.repository.RoleRepository;
 import io.github.cdimascio.dotenv.Dotenv;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

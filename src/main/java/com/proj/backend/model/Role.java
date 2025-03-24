@@ -1,4 +1,4 @@
-package com.ecogas.backend.model;
+package com.proj.backend.model;
 
 import jakarta.persistence.*;
 

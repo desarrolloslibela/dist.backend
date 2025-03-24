@@ -1,7 +1,7 @@
-package com.ecogas.backend.repository;
+package com.proj.backend.repository;
 
-import com.ecogas.backend.model.Role;
-import com.ecogas.backend.model.RoleType;
+import com.proj.backend.model.Role;
+import com.proj.backend.model.RoleType;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

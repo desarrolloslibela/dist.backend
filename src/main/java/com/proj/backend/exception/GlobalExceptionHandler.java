@@ -1,4 +1,4 @@
-package com.ecogas.backend.exception;
+package com.proj.backend.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

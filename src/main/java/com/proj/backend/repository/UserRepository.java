@@ -1,6 +1,6 @@
-package com.ecogas.backend.repository;
+package com.proj.backend.repository;
 
-import com.ecogas.backend.model.User;
+import com.proj.backend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

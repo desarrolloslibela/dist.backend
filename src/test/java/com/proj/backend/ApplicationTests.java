@@ -1,4 +1,4 @@
-package com.ecogas.backend;
+package com.proj.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

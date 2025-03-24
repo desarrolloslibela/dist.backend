@@ -1,13 +1,12 @@
-package com.ecogas.backend.controller;
+package com.proj.backend.controller;
 
-import com.ecogas.backend.dto.AuthResponseDTO;
-import com.ecogas.backend.dto.LoginRequestDTO;
-import com.ecogas.backend.dto.RegisterRequestDTO;
-import com.ecogas.backend.service.AuthService;
+import com.proj.backend.dto.AuthResponseDTO;
+import com.proj.backend.dto.LoginRequestDTO;
+import com.proj.backend.dto.RegisterRequestDTO;
+import com.proj.backend.service.AuthService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
